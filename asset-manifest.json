@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Projekt-zespolwy-front/static/css/main.e1f313b0.chunk.css",
+    "main.js": "/Projekt-zespolwy-front/static/js/main.342b8b90.chunk.js",
+    "main.js.map": "/Projekt-zespolwy-front/static/js/main.342b8b90.chunk.js.map",
+    "runtime-main.js": "/Projekt-zespolwy-front/static/js/runtime-main.caf8be93.js",
+    "runtime-main.js.map": "/Projekt-zespolwy-front/static/js/runtime-main.caf8be93.js.map",
+    "static/js/2.56359736.chunk.js": "/Projekt-zespolwy-front/static/js/2.56359736.chunk.js",
+    "static/js/2.56359736.chunk.js.map": "/Projekt-zespolwy-front/static/js/2.56359736.chunk.js.map",
+    "index.html": "/Projekt-zespolwy-front/index.html",
+    "precache-manifest.6157141a091ef5b8e36e3333d4fd7a06.js": "/Projekt-zespolwy-front/precache-manifest.6157141a091ef5b8e36e3333d4fd7a06.js",
+    "service-worker.js": "/Projekt-zespolwy-front/service-worker.js",
+    "static/css/main.e1f313b0.chunk.css.map": "/Projekt-zespolwy-front/static/css/main.e1f313b0.chunk.css.map",
+    "static/js/2.56359736.chunk.js.LICENSE.txt": "/Projekt-zespolwy-front/static/js/2.56359736.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caf8be93.js",
+    "static/js/2.56359736.chunk.js",
+    "static/css/main.e1f313b0.chunk.css",
+    "static/js/main.342b8b90.chunk.js"
+  ]
+}
