@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Projekt-zespolowy/static/css/main.e1f313b0.chunk.css",
-    "main.js": "/Projekt-zespolowy/static/js/main.d336fbd5.chunk.js",
-    "main.js.map": "/Projekt-zespolowy/static/js/main.d336fbd5.chunk.js.map",
+    "main.js": "/Projekt-zespolowy/static/js/main.9a3ce7c7.chunk.js",
+    "main.js.map": "/Projekt-zespolowy/static/js/main.9a3ce7c7.chunk.js.map",
     "runtime-main.js": "/Projekt-zespolowy/static/js/runtime-main.c6f82277.js",
     "runtime-main.js.map": "/Projekt-zespolowy/static/js/runtime-main.c6f82277.js.map",
     "static/js/2.3a37ce0e.chunk.js": "/Projekt-zespolowy/static/js/2.3a37ce0e.chunk.js",
     "static/js/2.3a37ce0e.chunk.js.map": "/Projekt-zespolowy/static/js/2.3a37ce0e.chunk.js.map",
     "index.html": "/Projekt-zespolowy/index.html",
-    "precache-manifest.519c1848bf0d9827e811ee7127cd3702.js": "/Projekt-zespolowy/precache-manifest.519c1848bf0d9827e811ee7127cd3702.js",
+    "precache-manifest.fe13dfc108c8bfe20b07b033cf48e507.js": "/Projekt-zespolowy/precache-manifest.fe13dfc108c8bfe20b07b033cf48e507.js",
     "service-worker.js": "/Projekt-zespolowy/service-worker.js",
     "static/css/main.e1f313b0.chunk.css.map": "/Projekt-zespolowy/static/css/main.e1f313b0.chunk.css.map",
     "static/js/2.3a37ce0e.chunk.js.LICENSE.txt": "/Projekt-zespolowy/static/js/2.3a37ce0e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c6f82277.js",
     "static/js/2.3a37ce0e.chunk.js",
     "static/css/main.e1f313b0.chunk.css",
-    "static/js/main.d336fbd5.chunk.js"
+    "static/js/main.9a3ce7c7.chunk.js"
   ]
 }
